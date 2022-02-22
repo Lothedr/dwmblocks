@@ -6,6 +6,7 @@ static const Block blocks[] = {
 	{"",	"sb-tasks",	10,	26},
 	{"",	"sb-music",	0,	11},
 	{"",	"sb-pacpackages",	0,	8},
+	{"",	"sb-monero",	120,	30},
 	{"",	"sb-news",		0,	6},
 	/* {"",	"sb-price lbc \"LBRY Token\" 📚",			9000,	22}, */
 	/* {"",	"sb-price bat \"Basic Attention Token\" 🦁",	9000,	20}, */
